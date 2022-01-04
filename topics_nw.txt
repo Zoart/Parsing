@@ -1,0 +1,1786 @@
+{
+   "users": [
+      {
+         "id": 44069,
+         "username": "Luxendra",
+         "avatar_template": "/user_avatar/forums.newworld.com/luxendra/{size}/21503_2.png",
+         "primary_group_name": "Community-Team",
+         "flair_name": "Community-Team",
+         "admin": true,
+         "moderator": true,
+         "trust_level": 3
+      },
+      {
+         "id": 285692,
+         "username": "wjhartle",
+         "avatar_template": "/user_avatar/forums.newworld.com/wjhartle/{size}/15604_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 20420,
+         "username": "TrevzorFTW",
+         "avatar_template": "/user_avatar/forums.newworld.com/trevzorftw/{size}/21503_2.png",
+         "primary_group_name": "Community-Team",
+         "flair_name": "Community-Team",
+         "admin": true,
+         "moderator": true,
+         "trust_level": 4
+      },
+      {
+         "id": 5634,
+         "username": "Kay",
+         "avatar_template": "/user_avatar/forums.newworld.com/kay/{size}/21500_2.png",
+         "primary_group_name": "Developer",
+         "flair_name": "Developer",
+         "trust_level": 4
+      },
+      {
+         "id": 733,
+         "username": "Tosch",
+         "avatar_template": "/user_avatar/forums.newworld.com/tosch/{size}/15599_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 42915,
+         "username": "TigerCr4ne",
+         "avatar_template": "/user_avatar/forums.newworld.com/tigercr4ne/{size}/21500_2.png",
+         "primary_group_name": "Developer",
+         "flair_name": "Developer",
+         "trust_level": 4
+      },
+      {
+         "id": 180954,
+         "username": "Seven.Mirror",
+         "avatar_template": "/user_avatar/forums.newworld.com/seven.mirror/{size}/15625_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 283788,
+         "username": "rhambeau",
+         "avatar_template": "/user_avatar/forums.newworld.com/rhambeau/{size}/15615_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 284473,
+         "username": "Zulway",
+         "avatar_template": "/user_avatar/forums.newworld.com/zulway/{size}/15619_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 257651,
+         "username": "catt240",
+         "avatar_template": "/user_avatar/forums.newworld.com/catt240/{size}/15605_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 269335,
+         "username": "Melehk",
+         "avatar_template": "/user_avatar/forums.newworld.com/melehk/{size}/16600_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 242475,
+         "username": "vulpix13",
+         "avatar_template": "/user_avatar/forums.newworld.com/vulpix13/{size}/16599_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 253115,
+         "username": "iBen",
+         "avatar_template": "/user_avatar/forums.newworld.com/iben/{size}/15599_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 267389,
+         "username": "pteth",
+         "avatar_template": "/user_avatar/forums.newworld.com/pteth/{size}/16613_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 4364,
+         "username": "NW_Berserker_Mike",
+         "avatar_template": "/user_avatar/forums.newworld.com/nw_berserker_mike/{size}/1807_2.png",
+         "primary_group_name": "Developer",
+         "flair_name": "Developer",
+         "trust_level": 1
+      },
+      {
+         "id": 190823,
+         "username": "jvmesanza",
+         "avatar_template": "/user_avatar/forums.newworld.com/jvmesanza/{size}/15598_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 272545,
+         "username": "S1ck",
+         "avatar_template": "/user_avatar/forums.newworld.com/s1ck/{size}/15598_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 186439,
+         "username": "kel1975",
+         "avatar_template": "/user_avatar/forums.newworld.com/kel1975/{size}/16597_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 264814,
+         "username": "Frytan",
+         "avatar_template": "/user_avatar/forums.newworld.com/frytan/{size}/16604_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 69745,
+         "username": "reinheart",
+         "avatar_template": "/user_avatar/forums.newworld.com/reinheart/{size}/16602_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 236342,
+         "username": "geomak",
+         "avatar_template": "/user_avatar/forums.newworld.com/geomak/{size}/16604_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 68002,
+         "username": "Shy",
+         "avatar_template": "/user_avatar/forums.newworld.com/shy/{size}/15598_2.png",
+         "flair_name": null,
+         "trust_level": 1
+      },
+      {
+         "id": 116984,
+         "username": "Kamakaze",
+         "avatar_template": "/user_avatar/forums.newworld.com/kamakaze/{size}/16597_2.png",
+         "flair_name": null,
+         "trust_level": 2
+      },
+      {
+         "id": 173,
+         "username": "Zin_Ramu",
+         "avatar_template": "/user_avatar/forums.newworld.com/zin_ramu/{size}/21500_2.png",
+         "primary_group_name": "Developer",
+         "flair_name": "Developer",
+         "trust_level": 3
+      },
+      {
+         "id": 170,
+         "username": "HelpfulWalrus",
+         "avatar_template": "/user_avatar/forums.newworld.com/helpfulwalrus/{size}/1807_2.png",
+         "primary_group_name": "Developer",
+         "flair_name": "Developer",
+         "trust_level": 4
+      }
+   ],
+   "primary_groups": [
+      {
+         "id": 49,
+         "name": "Community-Team"
+      },
+      {
+         "id": 46,
+         "name": "Developer"
+      }
+   ],
+   "flair_groups": [
+      {
+         "id": 49,
+         "name": "Community-Team",
+         "flair_url": null,
+         "flair_bg_color": "",
+         "flair_color": ""
+      },
+      {
+         "id": 46,
+         "name": "Developer",
+         "flair_url": null,
+         "flair_bg_color": "",
+         "flair_color": ""
+      }
+   ],
+   "topic_list": {
+      "can_create_topic": false,
+      "more_topics_url": "/topics/groups/Developer?page=2",
+      "per_page": 30,
+      "topics": [
+         {
+            "id": 640699,
+            "title": "[Notice] Status of the Next Update",
+            "fancy_title": "[Notice] Status of the Next Update",
+            "slug": "notice-status-of-the-next-update",
+            "posts_count": 1,
+            "reply_count": 0,
+            "highest_post_number": 1,
+            "image_url": null,
+            "created_at": "2021-12-15T01:30:00.000Z",
+            "last_posted_at": "2021-12-15T01:30:00.000Z",
+            "bumped": true,
+            "bumped_at": "2021-12-15T01:30:28.381Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 30875,
+            "like_count": 153,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 633418,
+            "title": "[Megathread] New World Update 1.1.2 Feedback",
+            "fancy_title": "[Megathread] New World Update 1.1.2 Feedback",
+            "slug": "megathread-new-world-update-112-feedback",
+            "posts_count": 5,
+            "reply_count": 0,
+            "highest_post_number": 5,
+            "image_url": null,
+            "created_at": "2021-12-09T17:32:39.254Z",
+            "last_posted_at": "2021-12-16T15:29:37.207Z",
+            "bumped": true,
+            "bumped_at": "2021-12-14T13:26:36.071Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 3529,
+            "like_count": 0,
+            "has_summary": false,
+            "last_poster_username": "TrevzorFTW",
+            "category_id": 47,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 285692,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 20420,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 631922,
+            "title": "Server Merge: South American Worlds",
+            "fancy_title": "Server Merge: South American Worlds",
+            "slug": "server-merge-south-american-worlds",
+            "posts_count": 9,
+            "reply_count": 0,
+            "highest_post_number": 9,
+            "image_url": null,
+            "created_at": "2021-12-11T01:30:00.000Z",
+            "last_posted_at": "2021-12-14T18:07:11.528Z",
+            "bumped": true,
+            "bumped_at": "2021-12-14T02:17:08.291Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 35945,
+            "like_count": 315,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster, Accepted Answer",
+                  "user_id": 5634,
+                  "primary_group_id": 46,
+                  "flair_group_id": 46
+               }
+            ]
+         },
+         {
+            "id": 636180,
+            "title": "[Notice] Client Update to Address Certain Issues",
+            "fancy_title": "[Notice] Client Update to Address Certain Issues",
+            "slug": "notice-client-update-to-address-certain-issues",
+            "posts_count": 1,
+            "reply_count": 0,
+            "highest_post_number": 1,
+            "image_url": null,
+            "created_at": "2021-12-11T02:40:45.137Z",
+            "last_posted_at": "2021-12-11T02:40:45.211Z",
+            "bumped": true,
+            "bumped_at": "2021-12-11T21:36:57.711Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 17992,
+            "like_count": 64,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 627706,
+            "title": "[Notice] Housing Rent Loss Compensation",
+            "fancy_title": "[Notice] Housing Rent Loss Compensation",
+            "slug": "notice-housing-rent-loss-compensation",
+            "posts_count": 3,
+            "reply_count": 0,
+            "highest_post_number": 3,
+            "image_url": null,
+            "created_at": "2021-12-08T18:00:00.000Z",
+            "last_posted_at": "2021-12-11T03:21:22.096Z",
+            "bumped": true,
+            "bumped_at": "2021-12-11T03:21:16.930Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 18743,
+            "like_count": 49,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster, Accepted Answer",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 636157,
+            "title": "[Downtime] South American Worlds 8pm PT December 10th",
+            "fancy_title": "[Downtime] South American Worlds 8pm PT December 10th",
+            "slug": "downtime-south-american-worlds-8pm-pt-december-10th",
+            "posts_count": 2,
+            "reply_count": 0,
+            "highest_post_number": 2,
+            "image_url": null,
+            "created_at": "2021-12-11T01:40:23.562Z",
+            "last_posted_at": "2021-12-15T01:20:57.030Z",
+            "bumped": true,
+            "bumped_at": "2021-12-11T01:40:23.644Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 7879,
+            "like_count": 15,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 627652,
+            "title": "Server Merge: Certain World Sets in Central EU and South America",
+            "fancy_title": "Server Merge: Certain World Sets in Central EU and South America",
+            "slug": "server-merge-certain-world-sets-in-central-eu-and-south-america",
+            "posts_count": 5,
+            "reply_count": 0,
+            "highest_post_number": 5,
+            "image_url": null,
+            "created_at": "2021-12-08T06:00:00.000Z",
+            "last_posted_at": "2021-12-11T00:39:23.852Z",
+            "bumped": true,
+            "bumped_at": "2021-12-11T00:39:08.931Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 48006,
+            "like_count": 100,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster, Accepted Answer",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 473167,
+            "title": "[Dev Blog] How Server/Client Authority is handled in New World",
+            "fancy_title": "[Dev Blog] How Server/Client Authority is handled in New World",
+            "slug": "dev-blog-how-serverclient-authority-is-handled-in-new-world",
+            "posts_count": 1,
+            "reply_count": 0,
+            "highest_post_number": 1,
+            "image_url": null,
+            "created_at": "2021-10-30T00:31:33.584Z",
+            "last_posted_at": "2021-10-30T00:31:33.674Z",
+            "bumped": true,
+            "bumped_at": "2021-12-10T19:33:25.043Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 51427,
+            "like_count": 291,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 88,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 633984,
+            "title": "[Downtime] Addressing Various Issues - December 9th/December 10th",
+            "fancy_title": "[Downtime] Addressing Various Issues - December 9th/December 10th",
+            "slug": "downtime-addressing-various-issues-december-9thdecember-10th",
+            "posts_count": 3,
+            "reply_count": 0,
+            "highest_post_number": 3,
+            "image_url": null,
+            "created_at": "2021-12-10T02:42:00.000Z",
+            "last_posted_at": "2021-12-10T17:23:05.543Z",
+            "bumped": true,
+            "bumped_at": "2021-12-10T09:18:52.518Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 30687,
+            "like_count": 65,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster, Accepted Answer",
+                  "user_id": 733,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 617764,
+            "title": "[Notice] Update on Horticulture/Harvester Gear",
+            "fancy_title": "[Notice] Update on Horticulture/Harvester Gear",
+            "slug": "notice-update-on-horticultureharvester-gear",
+            "posts_count": 2,
+            "reply_count": 0,
+            "highest_post_number": 2,
+            "image_url": null,
+            "created_at": "2021-12-02T01:29:36.593Z",
+            "last_posted_at": "2021-12-09T22:48:54.727Z",
+            "bumped": true,
+            "bumped_at": "2021-12-09T23:09:47.063Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 24102,
+            "like_count": 71,
+            "has_summary": false,
+            "last_poster_username": "TigerCr4ne",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 42915,
+                  "primary_group_id": 46,
+                  "flair_group_id": 46
+               }
+            ]
+         },
+         {
+            "id": 622867,
+            "title": "[Notice] Server Merge Mardi and Brittia - Central EU",
+            "fancy_title": "[Notice] Server Merge Mardi and Brittia - Central EU",
+            "slug": "notice-server-merge-mardi-and-brittia-central-eu",
+            "posts_count": 8,
+            "reply_count": 0,
+            "highest_post_number": 8,
+            "image_url": null,
+            "created_at": "2021-12-04T03:34:00.000Z",
+            "last_posted_at": "2021-12-15T01:21:08.928Z",
+            "bumped": true,
+            "bumped_at": "2021-12-09T20:55:43.405Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 60758,
+            "like_count": 230,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster, Accepted Answer",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 616917,
+            "title": "[Bug Megathread] Weekly Patch 1.1.1",
+            "fancy_title": "[Bug Megathread] Weekly Patch 1.1.1",
+            "slug": "bug-megathread-weekly-patch-111",
+            "posts_count": 185,
+            "reply_count": 24,
+            "highest_post_number": 193,
+            "image_url": null,
+            "created_at": "2021-12-01T17:40:21.186Z",
+            "last_posted_at": "2021-12-09T17:31:22.413Z",
+            "bumped": true,
+            "bumped_at": "2021-12-09T17:31:17.632Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 10336,
+            "like_count": 45,
+            "has_summary": true,
+            "last_poster_username": "Luxendra",
+            "category_id": 49,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 180954,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 283788,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 284473,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 257651,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 616919,
+            "title": "[Feedback Megathread] Weekly Update 1.1.1",
+            "fancy_title": "[Feedback Megathread] Weekly Update 1.1.1",
+            "slug": "feedback-megathread-weekly-update-111",
+            "posts_count": 59,
+            "reply_count": 14,
+            "highest_post_number": 63,
+            "image_url": null,
+            "created_at": "2021-12-01T17:42:33.639Z",
+            "last_posted_at": "2021-12-09T17:31:26.437Z",
+            "bumped": true,
+            "bumped_at": "2021-12-09T17:31:05.809Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 3590,
+            "like_count": 84,
+            "has_summary": true,
+            "last_poster_username": "Luxendra",
+            "category_id": 47,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 269335,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 242475,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 253115,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 267389,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 627646,
+            "title": "[Downtime] New World Update 1.1.2",
+            "fancy_title": "[Downtime] New World Update 1.1.2",
+            "slug": "downtime-new-world-update-112",
+            "posts_count": 5,
+            "reply_count": 0,
+            "highest_post_number": 5,
+            "image_url": null,
+            "created_at": "2021-12-09T01:30:00.000Z",
+            "last_posted_at": "2021-12-09T17:32:09.507Z",
+            "bumped": true,
+            "bumped_at": "2021-12-09T09:35:00.243Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 48978,
+            "like_count": 131,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster, Accepted Answer",
+                  "user_id": 733,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 627647,
+            "title": "[FAQ] Server Merges",
+            "fancy_title": "[FAQ] Server Merges",
+            "slug": "faq-server-merges",
+            "posts_count": 8,
+            "reply_count": 0,
+            "highest_post_number": 9,
+            "image_url": null,
+            "created_at": "2021-12-06T23:18:15.876Z",
+            "last_posted_at": "2021-12-08T18:00:14.734Z",
+            "bumped": true,
+            "bumped_at": "2021-12-08T18:00:14.734Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": true,
+            "unpinned": null,
+            "excerpt": "World Merge FAQ\n\nWhy do we merge worlds?\nFrom fighting your opposition in wars and invasions, to hanging out in the local tavern, we\u2019ve found that a healthy realm provides more opportunities for players to enjoy the worl&hellip;",
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 53422,
+            "like_count": 63,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 629018,
+            "title": "[Notice] Server Issues",
+            "fancy_title": "[Notice] Server Issues",
+            "slug": "notice-server-issues",
+            "posts_count": 5,
+            "reply_count": 0,
+            "highest_post_number": 5,
+            "image_url": null,
+            "created_at": "2021-12-07T17:38:06.168Z",
+            "last_posted_at": "2021-12-08T03:20:31.772Z",
+            "bumped": true,
+            "bumped_at": "2021-12-08T03:20:31.772Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 38372,
+            "like_count": 238,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster, Accepted Answer",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 573313,
+            "title": "[Dev Blog] Update on Current Issues #3",
+            "fancy_title": "[Dev Blog] Update on Current Issues #3",
+            "slug": "dev-blog-update-on-current-issues-3",
+            "posts_count": 4,
+            "reply_count": 0,
+            "highest_post_number": 4,
+            "image_url": null,
+            "created_at": "2021-11-20T04:46:10.636Z",
+            "last_posted_at": "2021-12-06T23:34:22.658Z",
+            "bumped": true,
+            "bumped_at": "2021-12-06T23:34:22.658Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 55798,
+            "like_count": 180,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 88,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 20420,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 576108,
+            "title": "[Dev Blog] Elite POIs and End Game",
+            "fancy_title": "[Dev Blog] Elite POIs and End Game",
+            "slug": "dev-blog-elite-pois-and-end-game",
+            "posts_count": 4,
+            "reply_count": 0,
+            "highest_post_number": 4,
+            "image_url": null,
+            "created_at": "2021-11-20T20:31:53.734Z",
+            "last_posted_at": "2021-12-06T23:33:11.968Z",
+            "bumped": true,
+            "bumped_at": "2021-12-06T23:33:11.968Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 47352,
+            "like_count": 126,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 88,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Developer",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 4364,
+                  "primary_group_id": 46,
+                  "flair_group_id": 46
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 619088,
+            "title": "Announcing the December Public Test Realm",
+            "fancy_title": "Announcing the December Public Test Realm",
+            "slug": "announcing-the-december-public-test-realm",
+            "posts_count": 1,
+            "reply_count": 0,
+            "highest_post_number": 1,
+            "image_url": null,
+            "created_at": "2021-12-02T19:14:12.304Z",
+            "last_posted_at": "2021-12-02T19:14:12.381Z",
+            "bumped": true,
+            "bumped_at": "2021-12-03T01:10:48.539Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 17168,
+            "like_count": 43,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 526619,
+            "title": "[Megathread] Gauging Interest for Regional Server Transfer",
+            "fancy_title": "[Megathread] Gauging Interest for Regional Server Transfer",
+            "slug": "megathread-gauging-interest-for-regional-server-transfer",
+            "posts_count": 778,
+            "reply_count": 34,
+            "highest_post_number": 797,
+            "image_url": null,
+            "created_at": "2021-11-09T00:54:57.934Z",
+            "last_posted_at": "2021-12-02T23:33:18.772Z",
+            "bumped": true,
+            "bumped_at": "2021-12-02T23:33:16.657Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": true,
+            "unpinned": null,
+            "excerpt": "Greetings Adventurers, \nAs we continue to work on cross regional transfers, we wanted to get a better sense of who is wanting to transfer, from where to where, and what sort of features/accommodations you want and/or nee&hellip;",
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 16914,
+            "like_count": 297,
+            "has_summary": true,
+            "last_poster_username": "Luxendra",
+            "category_id": 47,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster, Accepted Answer",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 190823,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 272545,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 186439,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 264814,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 614895,
+            "title": "Welcome and Thank you! - December PTR",
+            "fancy_title": "Welcome and Thank you! - December PTR",
+            "slug": "welcome-and-thank-you-december-ptr",
+            "posts_count": 3,
+            "reply_count": 0,
+            "highest_post_number": 3,
+            "image_url": "https://d13urrra316e2f.cloudfront.net/optimized/3X/9/3/937e3c1bc56d724c02862bdbec9aeee439932ece_2_1024x576.jpeg",
+            "created_at": "2021-12-02T19:00:00.000Z",
+            "last_posted_at": "2021-12-02T19:00:00.000Z",
+            "bumped": false,
+            "bumped_at": "2021-12-02T19:00:00.000Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": true,
+            "unpinned": null,
+            "excerpt": "Greetings Adventurers, \nThank you for participating in the Public Test Realm (PTR) and helping us knock out bugs and test content before they go live.  We appreciate all of your help! \nThe Public Test Realm will be avail&hellip;",
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 13277,
+            "like_count": 8,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 89,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 612302,
+            "title": "[Downtime] New World Update 1.1.1",
+            "fancy_title": "[Downtime] New World Update 1.1.1",
+            "slug": "downtime-new-world-update-111",
+            "posts_count": 3,
+            "reply_count": 0,
+            "highest_post_number": 3,
+            "image_url": null,
+            "created_at": "2021-11-29T19:20:15.181Z",
+            "last_posted_at": "2021-12-02T01:38:52.281Z",
+            "bumped": true,
+            "bumped_at": "2021-12-02T01:38:52.281Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 42148,
+            "like_count": 146,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster, Accepted Answer",
+                  "user_id": 733,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 563525,
+            "title": "[Bug Megathread] November Monthly Release (1.1)",
+            "fancy_title": "[Bug Megathread] November Monthly Release (1.1)",
+            "slug": "bug-megathread-november-monthly-release-11",
+            "posts_count": 837,
+            "reply_count": 111,
+            "highest_post_number": 870,
+            "image_url": null,
+            "created_at": "2021-11-18T20:09:24.574Z",
+            "last_posted_at": "2021-12-01T17:35:55.623Z",
+            "bumped": true,
+            "bumped_at": "2021-12-01T17:06:50.871Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 46126,
+            "like_count": 239,
+            "has_summary": true,
+            "last_poster_username": "Luxendra",
+            "category_id": 49,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 69745,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 236342,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 68002,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               },
+               {
+                  "extras": null,
+                  "description": "Frequent Poster",
+                  "user_id": 116984,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 614327,
+            "title": "Mise \u00e0 Jour (1.1.1)",
+            "fancy_title": "Mise \u00e0 Jour (1.1.1)",
+            "slug": "mise-%C3%A0-jour-111",
+            "posts_count": 2,
+            "reply_count": 0,
+            "highest_post_number": 2,
+            "image_url": null,
+            "created_at": "2021-11-30T20:23:02.852Z",
+            "last_posted_at": "2021-12-01T09:48:47.954Z",
+            "bumped": true,
+            "bumped_at": "2021-12-01T09:48:47.954Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 4208,
+            "like_count": 12,
+            "has_summary": false,
+            "last_poster_username": "Tosch",
+            "category_id": 58,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster, Accepted Answer",
+                  "user_id": 733,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 614326,
+            "title": "[Wartungsarbeiten] New World Patch 1.1.1",
+            "fancy_title": "[Wartungsarbeiten] New World Patch 1.1.1",
+            "slug": "wartungsarbeiten-new-world-patch-111",
+            "posts_count": 2,
+            "reply_count": 0,
+            "highest_post_number": 2,
+            "image_url": null,
+            "created_at": "2021-11-30T20:22:28.620Z",
+            "last_posted_at": "2021-12-01T09:48:37.857Z",
+            "bumped": true,
+            "bumped_at": "2021-12-01T09:48:37.857Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 9233,
+            "like_count": 32,
+            "has_summary": false,
+            "last_poster_username": "Tosch",
+            "category_id": 52,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": true,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster, Accepted Answer",
+                  "user_id": 733,
+                  "primary_group_id": null,
+                  "flair_group_id": null
+               }
+            ]
+         },
+         {
+            "id": 614324,
+            "title": "[Inatividade] Patch de atualiza\u00e7\u00e3o para New World [1.1.1]",
+            "fancy_title": "[Inatividade] Patch de atualiza\u00e7\u00e3o para New World [1.1.1]",
+            "slug": "inatividade-patch-de-atualiza%C3%A7%C3%A3o-para-new-world-111",
+            "posts_count": 1,
+            "reply_count": 0,
+            "highest_post_number": 1,
+            "image_url": null,
+            "created_at": "2021-11-30T20:21:29.001Z",
+            "last_posted_at": "2021-11-30T20:21:29.122Z",
+            "bumped": true,
+            "bumped_at": "2021-12-01T00:18:58.615Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 1816,
+            "like_count": 8,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 71,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 612954,
+            "title": "[Notice] Addressing Server Transfer Tokens",
+            "fancy_title": "[Notice] Addressing Server Transfer Tokens",
+            "slug": "notice-addressing-server-transfer-tokens",
+            "posts_count": 1,
+            "reply_count": 0,
+            "highest_post_number": 1,
+            "image_url": null,
+            "created_at": "2021-11-30T02:30:51.359Z",
+            "last_posted_at": "2021-11-30T02:30:51.426Z",
+            "bumped": true,
+            "bumped_at": "2021-11-30T02:47:11.354Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 31906,
+            "like_count": 93,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": "latest single",
+                  "description": "Original Poster, Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 494952,
+            "title": "[Dev Blog] PvP, War, and Territory",
+            "fancy_title": "[Dev Blog] PvP, War, and Territory",
+            "slug": "dev-blog-pvp-war-and-territory",
+            "posts_count": 4,
+            "reply_count": 0,
+            "highest_post_number": 5,
+            "image_url": null,
+            "created_at": "2021-11-02T22:01:30.514Z",
+            "last_posted_at": "2021-11-29T22:25:42.583Z",
+            "bumped": true,
+            "bumped_at": "2021-11-29T22:25:42.583Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 82987,
+            "like_count": 802,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 88,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Developer",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 173,
+                  "primary_group_id": 46,
+                  "flair_group_id": 46
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 471125,
+            "title": "[Dev Blog] High Watermark System",
+            "fancy_title": "[Dev Blog] High Watermark System",
+            "slug": "dev-blog-high-watermark-system",
+            "posts_count": 4,
+            "reply_count": 0,
+            "highest_post_number": 6,
+            "image_url": null,
+            "created_at": "2021-10-29T17:55:57.178Z",
+            "last_posted_at": "2021-11-29T22:24:25.667Z",
+            "bumped": true,
+            "bumped_at": "2021-11-29T22:24:25.667Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": false,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 117536,
+            "like_count": 392,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 88,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Developer",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 170,
+                  "primary_group_id": 46,
+                  "flair_group_id": 46
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         },
+         {
+            "id": 608497,
+            "title": "[Downtime] EU Central November 27th 9pm PT",
+            "fancy_title": "[Downtime] EU Central November 27th 9pm PT",
+            "slug": "downtime-eu-central-november-27th-9pm-pt",
+            "posts_count": 3,
+            "reply_count": 0,
+            "highest_post_number": 3,
+            "image_url": null,
+            "created_at": "2021-11-28T04:37:48.969Z",
+            "last_posted_at": "2021-11-30T01:30:57.206Z",
+            "bumped": true,
+            "bumped_at": "2021-11-28T06:02:02.265Z",
+            "archetype": "regular",
+            "unseen": false,
+            "pinned": false,
+            "unpinned": null,
+            "visible": true,
+            "closed": true,
+            "archived": false,
+            "bookmarked": null,
+            "liked": null,
+            "tags_descriptions": {},
+            "views": 19909,
+            "like_count": 224,
+            "has_summary": false,
+            "last_poster_username": "Luxendra",
+            "category_id": 50,
+            "pinned_globally": false,
+            "featured_link": null,
+            "first_tracked_post": {
+               "group": "Community-Team",
+               "post_number": 1
+            },
+            "has_accepted_answer": false,
+            "posters": [
+               {
+                  "extras": null,
+                  "description": "Original Poster",
+                  "user_id": 20420,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               },
+               {
+                  "extras": "latest",
+                  "description": "Most Recent Poster",
+                  "user_id": 44069,
+                  "primary_group_id": 49,
+                  "flair_group_id": 49
+               }
+            ]
+         }
+      ]
+   }
+}
