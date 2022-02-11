@@ -8,8 +8,7 @@ from  selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 
 
-#json.dumps(a, indent=3) возвращает удобную для чтения строку
-#последний рабочий метод
+#json.dumps(a, indent=3) 
 # with open('index.html', "w") as file:
 #     a = r.json()
 #     text = json.dumps(a, indent=6)
@@ -25,7 +24,6 @@ from selenium.webdriver.firefox.options import Options
 #
 # driver.get("https://forums.newworld.com/groups/Developer/posts.json")
 
-# print("Браузер запущен.")
 
 r = requests.get('https://forums.newworld.com/topics/groups/Developer.json?page=1')
 
@@ -47,7 +45,6 @@ with open("json.txt") as file:
 # parsed = json.loads(text)
 # print(text)
 
-#последний рабочий метод
 # with open('json.txt', "w") as file:
 #     a = r.json()
 #     text = json.dumps(a, indent=4)
